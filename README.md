@@ -4,7 +4,7 @@ Simple vanila neural network for XOR solving made with Eigen Library - for educa
 Because my goal was education - I made it as simple as posible;
 
 The point of the project is to show how to use matrices and vectors manipulations for creating neural networks;
- ( instead of useing "FOR" circles )
+ ( instead of using "FOR" circles )
 
 It is Visual Studio 2015 C++ project;
 
