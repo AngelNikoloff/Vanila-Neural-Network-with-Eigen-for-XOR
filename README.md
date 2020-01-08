@@ -1,5 +1,5 @@
 # Vanila_ANN_with_Eigen_for_XOR
-Simple vanila neural network for xor solving made with eigen library - for education purpose;
+Simple vanila neural network for xor solving made with Eigen Library - for education purpose;
 
 It is Visual Studio C++ project;
 
