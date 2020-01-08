@@ -4,3 +4,4 @@ Simple vanila neural network for xor solving made with eigen linrary - for educa
 It is Visual Studio C++ project;
 
 Used Eigen Library v. 3.3.7 for linear algebra: matrices, vectors;
+(Eigen is included in the zip file);
