@@ -1,5 +1,4 @@
-# Vanila_ANN_with_Eigen_for_XOR
-Simple vanila neural network for XOR solving made with Eigen Library - for education purpose;
+# Simple vanila neural network for XOR solving made with Eigen Library - for education purpose;
 
 Because my goal was education - I made it as simple as posible;
 
